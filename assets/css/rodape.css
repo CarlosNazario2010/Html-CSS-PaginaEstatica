@@ -1,0 +1,13 @@
+.rodape {
+    background: #bfbfbf;
+    color: #fdfdfd;
+    padding: 1.5625rem 5rem;
+    text-align: right;
+    text-transform: lowercase;
+    transition: 0.5s;
+}
+
+.rodape:hover {
+    color: #535353;
+    cursor: pointer;
+}
